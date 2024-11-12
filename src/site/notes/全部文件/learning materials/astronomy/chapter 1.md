@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//learning-materials/astronomy/chapter-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"astronomy chapter 1","permalink":"//learning-materials/astronomy/chapter-1/","dgPassFrontmatter":true}
 ---
 
 

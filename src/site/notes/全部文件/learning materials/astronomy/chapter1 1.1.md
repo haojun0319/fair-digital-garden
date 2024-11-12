@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//learning-materials/astronomy/chapter1-1-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"astronomy chapter 1","permalink":"//learning-materials/astronomy/chapter1-1-1/","dgPassFrontmatter":true}
 ---
 
 up⬆:[[全部文件/learning materials/astronomy/chapter 1\|chapter 1]]
