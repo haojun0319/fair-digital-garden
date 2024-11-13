@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//learning-materials/astronomy/astronomy-page/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["map"],"permalink":"//learning-materials/astronomy/astronomy-page/","dgPassFrontmatter":true}
 ---
 
 up⬆:[[home page\|home page]]
@@ -20,4 +20,7 @@ We invite you to come along on a series of voyages to explore the universe as as
 >[!example]- astronomy contents
 >
 >[[全部文件/learning materials/astronomy/chapter 1\|chapter 1]]
+>
+
+> [!important]- this information is following the textbook 
 

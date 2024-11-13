@@ -4,7 +4,10 @@
 
 up⬆:[[全部文件/learning materials/astronomy/chapter 1\|chapter 1]]
 
->[!important]- 
+### introduction:
+**Astronomy is the scientific study of celestial bodies, space, and the universe as a whole.**
+
+>[!info]- 
 >
 >>[!important]- Definition
 >>- Astronomy: The study of objects beyond Earth and their interactions.
@@ -27,5 +30,6 @@ up⬆:[[全部文件/learning materials/astronomy/chapter 1\|chapter 1]]
 >>
 >>- Tracing the universe's evolution is a central aspect of modern astronomy and provides satisfying insights into the cosmos.
 
->[!important]- the textbook picture
+>[!example]- the textbook picture
 >![astronnomy chp1 1.1.jpg](/img/user/astronnomy%20chp1%201.1.jpg)
+
